@@ -5,7 +5,7 @@ rocketmq测试使用过程
 
 下载结果： docker images | grep rocketmq
 
-docker.io/vongosling/rocketmq   latest              b23eb8526819        8 months ago        727.8 MB
+docker.io/vongosling/rocketmq     latest     b23eb8526819     8 months ago     727.8 MB
 
 启动容器：
 docker run -p 9876:9876 -p 10911:10911 --rm vongosling/rocketmq
